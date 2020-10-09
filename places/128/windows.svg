@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
+   sodipodi:docname="windows.svg">
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-75"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4902"
+       id="linearGradient941"
+       x1="17.197916"
+       y1="33.072914"
+       x2="16.933332"
+       y2="0.5291658"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-10.054166,259.16458)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4902">
+      <stop
+         style="stop-color:#0d72ec;stop-opacity:1"
+         offset="0"
+         id="stop4898" />
+      <stop
+         style="stop-color:#36b2fb;stop-opacity:1"
+         offset="1"
+         id="stop4900" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme-753">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-75-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-7-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="73.405698"
+     inkscape:cy="101.25848"
+     inkscape:document-units="px"
+     inkscape:current-layer="g875"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1126"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13333)">
+    <g
+       id="g2739"
+       transform="translate(11.377083,1.322913)">
+      <g
+         id="g875"
+         transform="translate(-1.3229156,2.6458324)">
+        <path
+           id="rect845"
+           style="fill:#1d63b4;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+           d="M -1.8520832,259.42917 H 15.610415 c 4.397375,0 7.9375,3.54012 7.9375,7.9375 v 17.4625 c 0,4.39737 -3.540125,7.9375 -7.9375,7.9375 H -1.8520832 c -4.397375,0 -7.9375,-3.54013 -7.9375,-7.9375 v -17.4625 c 0,-4.39738 3.540125,-7.9375 7.9375,-7.9375 z" />
+        <path
+           id="rect845-6"
+           style="fill:url(#linearGradient941);fill-opacity:1;stroke-width:0.520769;stroke-linecap:round;stroke-linejoin:round"
+           d="M -1.8520842,259.69376 H 15.610417 c 4.250796,0 7.672917,3.42212 7.672917,7.67291 v 17.4625 c 0,4.2508 -3.422121,7.67292 -7.672917,7.67292 H -1.8520842 c -4.2507957,0 -7.6729164,-3.42212 -7.6729164,-7.67292 v -17.4625 c 0,-4.25079 3.4221207,-7.67291 7.6729164,-7.67291 z" />
+        <g
+           id="g2739-93"
+           transform="translate(1.3229155,-2.3812493)">
+          <g
+             transform="translate(-30.427083,-29.897909)"
+             id="layer1-56-6"
+             inkscape:label="Capa 1">
+            <g
+               inkscape:label="Capa 1"
+               id="layer1-5-0"
+               transform="matrix(1.90625,0,0,1.9047619,-7.2843096,-246.48927)"
+               style="fill:#e7f0f6;fill-opacity:1" />
+            <g
+               transform="translate(54.239584,27.516663)"
+               id="layer1-562-6"
+               inkscape:label="Capa 1">
+              <g
+                 transform="translate(11.377083,1.322913)"
+                 id="g2739-9-2">
+                <path
+                   inkscape:connector-curvature="0"
+                   style="fill:#0e4478;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   d="m -20.902084,270.54167 -9.789583,1.32292 v 7.40833 h 9.789583 z m -10.847916,1.32292 -7.672917,1.32291 v 6.08542 H -31.75 Z m -7.672917,8.46666 v 6.08542 l 7.672917,1.32292 v -7.40834 z m 8.73125,0 v 7.40834 l 9.789583,1.32291 v -8.73125 z"
+                   id="path921-6" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(-30.427083,-29.897909)"
+         id="layer1-56"
+         inkscape:label="Capa 1">
+        <g
+           inkscape:label="Capa 1"
+           id="layer1-5"
+           transform="matrix(1.90625,0,0,1.9047619,-7.2843096,-246.48927)"
+           style="fill:#e7f0f6;fill-opacity:1" />
+        <g
+           transform="translate(54.239584,27.516663)"
+           id="layer1-562"
+           inkscape:label="Capa 1">
+          <g
+             transform="translate(11.377083,1.322913)"
+             id="g2739-9" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
